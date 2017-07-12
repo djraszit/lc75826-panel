@@ -1,0 +1,222 @@
+PART 3
+
+bit 0	part 3	bargraph 3
+bit 1	part 3	bargraph 3
+bit 2	part 3	bargraph 3
+bit 3	part 3	bargraph 3
+bit 4	part 3	none
+bit 5	part 3	small_char 3 segment B
+bit 6	part 3	small_char 3 segment H
+bit 7	part 3	small_char 3 segment C
+bit 8	part 3	Atrac3plus
+bit 9	part 3	small_char 3 segment J
+bit 10	part 3	small_char 3 segment M
+bit 11	part 3	small_char 3 segment L
+bit 12	part 3	small_char 3 segment A
+bit 13	part 3	small_char 3 segment I
+bit 14	part 3	small_char 3 segment K
+bit 15	part 3	small_char 3 segment D
+bit 16	part 3	none
+bit 17	part 3	small_char 3 segment F
+bit 18	part 3	small_char 3 segment G
+bit 19	part 3	small_char 3 segment E
+bit 20	part 3	none
+
+bit 21	part 3	small_char 2 segment B
+bit 22	part 3	small_char 2 segment H
+bit 23	part 3	small_char 2 segment C
+bit 24	part 3	none
+bit 25	part 3	small_char 2 segment J
+bit 26	part 3	small_char 2 segment M
+bit 27	part 3	small_char 2 segment L
+bit 28	part 3	small_char 2 segment A
+bit 29	part 3	small_char 2 segment I
+bit 30	part 3	small_char 2 segment K
+bit 31	part 3	small_char 2 segment D
+bit 32	part 3	none
+bit 33	part 3	small_char 2 segment F
+bit 34	part 3	small_char 2 segment G
+bit 35	part 3	small_char 2 segment E
+bit 36	part 3	none
+
+bit 37	part 3	small_char 1 segment B
+bit 38	part 3	small_char 1 segment H
+bit 39	part 3	small_char 1 segment C
+bit 40	part 3	MP3
+bit 41	part 3	small_char 1 segment J
+bit 42	part 3	small_char 1 segment M
+bit 43	part 3	small_char 1 segment L
+bit 44	part 3	small_char 1 segment A
+bit 45	part 3	small_char 1 segment I
+bit 46	part 3	small_char 1 segment K
+bit 47	part 3	small_char 1 segment D
+bit 48	part 3	CD symbol
+bit 49	part 3	small_char 1 segment F
+bit 50	part 3	small_char 1 segment G
+bit 51	part 3	small_char 1 segment E
+bit 52	part 3
+///////////////////////////////////////
+
+PART 2
+bit 0	part 2	-
+bit 1	part 2	large_char 3 segment B
+bit 2	part 2	large_char 3 segment H
+bit 3	part 2	large_char 3 segment C
+bit 4	part 2	none
+bit 5	part 2	large_char 3 segment J
+bit 6	part 2	large_char 3 segment M
+bit 7	part 2	large_char 3 segment L
+bit 8	part 2	large_char 3 segment A
+bit 9	part 2	large_char 3 segment I
+bit 10	part 2	large_char 3 segment K
+bit 11	part 2	large_char 3 segment D
+bit 12	part 2	TRACK
+bit 13	part 2	large_char 3 segment F
+bit 14	part 2	large_char 3 segment G
+bit 15	part 2	large_char 3 segment E
+bit 16	part 2	GP
+
+bit 17	part 2	large_char 2 segment B
+bit 18	part 2	large_char 2 segment H
+bit 19	part 2	large_char 2 segment C
+bit 20	part 2	none
+bit 21	part 2	large_char 2 segment J
+bit 22	part 2	large_char 2 segment M
+bit 23	part 2	large_char 2 segment L
+bit 24	part 2	large_char 2 segment A
+bit 25	part 2	large_char 2 segment I
+bit 26	part 2	large_char 2 segment K
+bit 27	part 2	large_char 2 segment D
+bit 28	part 2	none
+bit 29	part 2	large_char 2 segment F
+bit 30	part 2	large_char 2 segment G
+bit 31	part 2	large_char 2 segment E
+bit 32	part 2	dot_point
+
+bit 33	part 2	large_char 1 segment B
+bit 34	part 2	large_char 1 segment H
+bit 35	part 2	large_char 1 segment C
+bit 36	part 2	none
+bit 37	part 2	large_char 1 segment J
+bit 38	part 2	large_char 1 segment M
+bit 39	part 2	large_char 1 segment L
+bit 40	part 2	large_char 1 segment A
+bit 41	part 2	large_char 1 segment I
+bit 42	part 2	large_char 1 segment K
+bit 43	part 2	large_char 1 segment D
+bit 44	part 2	DISC
+bit 45	part 2	large_char 1 segment F
+bit 46	part 2	large_char 1 segment G
+bit 47	part 2	large_char 1 segment E
+bit 48	part 2	none
+bit 49	part 2	none
+bit 50	part 2	none
+bit 51	part 2	none
+bit 52	part 2	none
+///////////////////////////////////////
+
+PART 1
+bit 0	part 1	bargraph
+bit 1	part 1	bargraph
+bit 2	part 1	bargraph
+bit 3	part 1	bargraph
+bit 4	part 1	dot_point
+bit 5	part 1	large_char 6 segment B
+bit 6	part 1	large_char 6 segment H
+bit 7	part 1	large_char 6 segment C
+bit 8	part 1	REG
+bit 9	part 1	large_char 6 segment J
+bit 10	part 1	large_char 6 segment M
+bit 11	part 1	large_char 6 segment L
+bit 12	part 1	large_char 6 segment A
+bit 13	part 1	large_char 6 segment I
+bit 14	part 1	large_char 6 segment K
+bit 15	part 1	large_char 6 segment D
+bit 16	part 1	SHUF
+bit 17	part 1	large_char 6 segment F
+bit 18	part 1	large_char 6 segment G
+bit 19	part 1	large_char 6 segment E
+bit 20	part 1	none
+
+bit 21	part 1	large_char 5 segment B
+bit 22	part 1	large_char 5 segment H
+bit 23	part 1	large_char 5 segment C
+bit 24	part 1	ST
+bit 25	part 1	large_char 5 segment J
+bit 26	part 1	large_char 5 segment M
+bit 27	part 1	large_char 5 segment L
+bit 28	part 1	large_char 5 segment A
+bit 29	part 1	large_char 5 segment I
+bit 30	part 1	large_char 5 segment K
+bit 31	part 1	large_char 5 segment D
+bit 32	part 1	colon
+bit 33	part 1	large_char 5 segment F
+bit 34	part 1	large_char 5 segment G
+bit 35	part 1	large_char 5 segment E
+bit 36	part 1	-
+
+bit 37	part 1	large_char 4 segment B
+bit 38	part 1	large_char 4 segment H
+bit 39	part 1	large_char 4 segment C
+bit 40	part 1	REP
+bit 41	part 1	large_char 4 segment J
+bit 42	part 1	large_char 4 segment M
+bit 43	part 1	large_char 4 segment L
+bit 44	part 1	large_char 4 segment A
+bit 45	part 1	large_char 4 segment I
+bit 46	part 1	large_char 4 segment K
+bit 47	part 1	large_char 4 segment D
+bit 48	part 1	ID3
+bit 49	part 1	large_char 4 segment F
+bit 50	part 1	large_char 4 segment G
+bit 51	part 1	large_char 4 segment E
+bit 52	part 1	none
+//////////////////////////////////////
+
+PART 0
+
+bit 0	part 0	backlight
+bit 12	part 0	bargraph
+bit 13	part 0	bargraph
+bit 14	part 0	bargraph
+bit 15	part 0	bargraph
+bit 16	part 0	bargraph
+bit 17	part 0	bargraph
+bit 18	part 0	bargraph
+bit 19	part 0	bargraph
+bit 20	part 0	6 points
+
+bit 21	part 0	large_char 8 segment B
+bit 22	part 0	large_char 8 segment H
+bit 23	part 0	large_char 8 segment C
+bit 24	part 0	EQ3
+bit 25	part 0	large_char 8 segment J
+bit 26	part 0	large_char 8 segment M
+bit 27	part 0	large_char 8 segment L
+bit 28	part 0	large_char 8 segment A
+bit 29	part 0	large_char 8 segment I
+bit 30	part 0	large_char 8 segment K
+bit 31	part 0	large_char 8 segment D
+bit 32	part 0	TP
+bit 33	part 0	large_char 8 segment F
+bit 34	part 0	large_char 8 segment G
+bit 35	part 0	large_char 8 segment E
+bit 36	part 0	TA
+
+bit 37	part 0	large_char 7 segment B
+bit 38	part 0	large_char 7 segment H
+bit 39	part 0	large_char 7 segment C
+bit 40	part 0	AF
+bit 41	part 0	large_char 7 segment J
+bit 42	part 0	large_char 7 segment M
+bit 43	part 0	large_char 7 segment L
+bit 44	part 0	large_char 7 segment A
+bit 45	part 0	large_char 7 segment I
+bit 46	part 0	large_char 7 segment K
+bit 47	part 0	large_char 7 segment D
+bit 48	part 0	colon 2
+bit 49	part 0	large_char 7 segment F
+bit 50	part 0	large_char 7 segment G
+bit 51	part 0	large_char 7 segment E
+bit 52	part 0	none
+
