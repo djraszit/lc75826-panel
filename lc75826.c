@@ -25,6 +25,8 @@ void lc75826_init(lc75826_struct *data, char *text){
 	data[0].ctrl_OC = 0;
 	data[0].ctrl_SC = 0;
 	data[0].ctrl_BU = 0;
+	puttext_lcd(data, 0, text);
+	lc7582x_send_data(data, 4);
 }
 
 
